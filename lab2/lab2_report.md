@@ -1,12 +1,15 @@
-University: ITMO University 
-Faculty: FTMI
-Course: Cloud platforms as the basis of technology entrepreneurship 
-Year: 2026/2027 
-Group: U4225 
-Author: Kupriyanova Arina Vladimirovna 
-Lab: Lab2 
-Date of create: 09.11.2026 
-Date of finished: 09.11.2026
+
+| Параметр | Значение |
+|---|---|
+| Университет | ИТМО |
+| Факультет | ФТМИ |
+| Дисциплина | Cloud platforms as the basis of technology entrepreneurship |
+| Учебный год | 2026/2027 |
+| Студент | Куприянова Арина Владимировна |
+| Группа | U4225 |
+| Дата подготовки | 09.11.2026 |
+| Дата защиты | 09.11.2026 |
+
 
 # Лабораторная работа №2 "Исследование Cloud Run"
 ## Цель работы
