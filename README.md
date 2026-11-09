@@ -1,0 +1,1 @@
+# 2026_2027-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4225-kupriyanova_a_v
